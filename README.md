@@ -15,7 +15,7 @@ I'd like to try some real Chinese cuisine.
 </p>
 <p>
 韩大厨艳照
-<img src="图片/纸包鱼2.jpg"width="180"height="200"/>
+<img src="https://github.com/PhilDonahue/Chengdu-University-of-Information-Technology-Cuisin/blob/master/%E7%BA%B8%E5%8C%85%E9%B1%BC1.jpg"width="180"height="200"/>
 <p>
 纸包鱼现场图片：
 <img src="图片/纸包鱼1.jpg"width="300"height="200"/>
