@@ -7,7 +7,7 @@ I'd like to try some real Chinese cuisine.
 <h2 align="center">1.纸包鱼</h2>
 <hr/>
 <p>
-<a href="纸包鱼.html">纸包鱼</a>
+<a href="https://github.com/PhilDonahue/Chengdu-University-of-Information-Technology-Cuisin/blob/master/%E7%BA%B8%E5%8C%85%E9%B1%BC.html">纸包鱼</a>
 </p>
 
 <p>
