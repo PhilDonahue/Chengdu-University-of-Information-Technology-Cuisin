@@ -5,6 +5,18 @@ I'd like to try some real Chinese cuisine.
 <body background="https://github.com/PhilDonahue/Chengdu-University-of-Information-Technology-Cuisin/blob/master/QQ%E5%9B%BE%E7%89%8720181013094549.jpg">
 <h1 align="center">成都信息工程大学美食</h1>
 <h2 align="center">1.纸包鱼</h2>
+  <h3>赞助商：</h3>
+  <table border="1">
+    <tr>
+      <td>朱</td>
+       <td>顾</td>
+       <td>韩</td>
+    </tr>
+    <tr>
+       <td>大王</td>
+       <td>小王</td>
+       <td>蒋</td>
+    </tr>
 <hr/>
 <p>
 <a href="https://github.com/PhilDonahue/Chengdu-University-of-Information-Technology-Cuisin/blob/master/%E7%BA%B8%E5%8C%85%E9%B1%BC.html">纸包鱼</a>
