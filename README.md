@@ -2,7 +2,7 @@
 I'd like to try some real Chinese cuisine.
 <html>
 
-<body background="https://github.com/PhilDonahue/Chengdu-University-of-Information-Technology-Cuisin/blob/master/QQ%E5%9B%BE%E7%89%8720181013094549.jpg">
+<body background="https://github.com/PhilDonahue/Chengdu-University-of-Information-Technology-Cuisin/blob/master/TIM%E5%9B%BE%E7%89%8720181020184627.jpg">
 <h1 align="center">成都信息工程大学美食</h1>
 <h2 align="center">1.纸包鱼</h2>
  <div id="container" style="width:800px">
